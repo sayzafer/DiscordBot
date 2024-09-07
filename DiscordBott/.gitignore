@@ -1,0 +1,31 @@
+﻿# Visual Studio cache, build ve kişisel ayar dosyaları
+*.user
+*.suo
+*.rsuser
+*.sln.docstates
+
+# Derleme (Build) klasörleri
+bin/
+obj/
+
+# Paket yönetimi dosyaları
+packages/
+
+# Temp, log dosyaları
+*.log
+*.tmp
+
+# VS Code konfigürasyonları
+.vscode/
+
+# Rider IDE ayarları
+.idea/
+
+# .NET ile ilgili geçici dosyalar
+*.dll
+*.exe
+*.pdb
+*.app
+
+
+config.json
